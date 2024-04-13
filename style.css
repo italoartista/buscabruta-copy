@@ -82,7 +82,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: red;
+    border-color: magenta;
 }
 #menu { 
     display: flex;
